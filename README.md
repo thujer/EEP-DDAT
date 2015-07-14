@@ -1,4 +1,4 @@
-EEP-DDAT
+EEP-DDAT - EEPROM data storage filesystem
 ========
 
 C++ app - EEPROM filesystem
